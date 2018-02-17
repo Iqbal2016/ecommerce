@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+.pagination_1{
+    margin-top: 10px;
+    border: 1px #000;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
+.pagination_1 a{
+    text-decoration: none;
+    background: #0ff;
+    padding:10px;
+    color: #000;
+    
+}
+.pagination_1 li{
+    text-decoration: none;
+    padding:10px;
+    color: #000;
+    
+}
